@@ -6,10 +6,10 @@
 ### <div align="center">I'm Sandro, a Senior Frontend and Passionate Backend Developer 👨‍💻 </div>  
   
 
-🔭 I’m currently working @ [XTN Cognitive Security](https://xtncognitivesecurity.com/)  
+🔭 I’m currently working @ [M31](https://www.m31.com/)  
   
 
-🌱 I’m currently learning GoLang and DevOps tecnologies  
+🌱 I’m currently learning GoLang and GitOps tecnologies  
   
 
 ❓ Ask me about anything related to JavaScript, TypeScript, CSS, HTML and related technologies  
