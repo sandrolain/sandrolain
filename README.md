@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sandro, a Senior Frontend and Passionate Backend Developer 👨‍💻 </div>  
+### <div align="center">I'm Sandro, a Senior Cloud Engineer 👨‍💻 </div>  
   
 
 🔭 I’m currently working @ [M31](https://www.m31.com/)  
